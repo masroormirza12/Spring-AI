@@ -1,3 +1,7 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2859d6c9-2402-4773-ba39-b5a60e056737" />
+
+
+
 🤖 Spring AI Telegram Bot
 
 This project is a Spring Boot based AI-powered Telegram Bot that integrates:
